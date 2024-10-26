@@ -37,7 +37,7 @@ body .qr_code_box .text_box .text_item {
   padding: 16px 16px 0px 16px;
   margin: 0px;
 }
-body .qr_code_box .text_box h3.text_item {
+body .qr_code_box .text_box h1.text_item {
   font-size: 22px;
   color: #1F314F;
 }/*# sourceMappingURL=qr_code.css.map */
